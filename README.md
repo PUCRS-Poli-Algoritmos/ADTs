@@ -1,2 +1,2 @@
 # ADTs
-Educational implementations of ADT
+Educational implementations of ADTs
